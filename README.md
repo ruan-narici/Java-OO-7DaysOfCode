@@ -1,4 +1,4 @@
-![#7DaysOfCode Ruan Narici](./assets/img/7daysofcode.png)
+![#7DaysOfCode Ruan Narici](./ConsumirUmaAPIDeFilmes/assets/img/7daysofcode.png)
 
 ### Usando apenas código Java, eu consumi uma API para pesquisar os top 250 filmes da lista do IMDB e criei um HTML com os resultados JSON devolvidos. Também tive que pensar em classes, interfaces, construtores e muitos outros conceitos para concluir este desafio..
 <br>
