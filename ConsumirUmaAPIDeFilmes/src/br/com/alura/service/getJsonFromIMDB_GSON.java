@@ -16,7 +16,7 @@ public class getJsonFromIMDB_GSON {
 	public static void main(String[] args) throws Exception {
 		
 		String apiKey = "k_9synf3in";
-		int rank = 123;
+		int rank = 12;
 		
 		HttpClient client = HttpClient.newHttpClient();
 		HttpRequest request = HttpRequest.newBuilder()
