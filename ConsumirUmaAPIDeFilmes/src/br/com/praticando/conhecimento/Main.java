@@ -1,3 +1,4 @@
+package br.com.praticando.conhecimento;
 import com.google.gson.Gson;
 import java.net.URI;
 import java.net.http.HttpClient;
