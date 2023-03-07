@@ -23,6 +23,7 @@ public class Executar {
 		System.out.println("Ano: " + listaDeFilmes.get(3).get(0));
 		createHTML gerarHTML = new createHTML();
 		gerarHTML.createDocHTML(listaDeFilmes);
+		
 	}
 
 }

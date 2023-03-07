@@ -1,6 +1,8 @@
 package br.com.alura.model;
 
-public class Filme {
+import java.util.Comparator;
+
+public class Filme implements Comparator<Filme[]> {
 	
 	private String title;
 	private String image;
@@ -18,6 +20,11 @@ public class Filme {
 	}
 	public String getYear() {
 		return year;
+	}
+	@Override
+	public int compare(Filme[] o1, Filme[] o2) {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 	
 }
